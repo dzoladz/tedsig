@@ -1,5 +1,7 @@
 ### General ###
 *.lock
+.idea
+.idea/workspace.xml
 
 ### Jekyll ###
 _site/
