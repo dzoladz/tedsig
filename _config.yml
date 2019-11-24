@@ -57,7 +57,7 @@ organizerLink: "http://lviv.gdg.org.ua/"
 # -------------------------
 navigationLogo: "/img/sprites/alao-inverted-small.svg"
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ #- {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
