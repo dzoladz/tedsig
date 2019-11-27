@@ -293,7 +293,7 @@ showSessions: true
 # -------------------------
 # TEAM BLOCK
 # -------------------------
-teamShowSection: true
+teamShowSection: false
 teamBlockTitle: "Conference Team"
 aboutUs: "Description is enormous."
 
