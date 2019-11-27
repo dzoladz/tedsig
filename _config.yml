@@ -31,7 +31,7 @@ description: "Virtual conference for ALAO TEDSIG"
 author: "Derek Zoladz, OhioNET; Oleh Zasadnyy, GDG Lviv"
 year: "2021"
 
-baseurl: "/tedsig"
+baseurl: "https://dzoladz.github.io/tedsig"
 url: "https://dzoladz.github.io"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
