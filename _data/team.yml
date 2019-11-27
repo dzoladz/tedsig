@@ -1,60 +1,56 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Derek"
+  surname: "Zoladz"
+  title: "Brainchild and Conference Architect"
+  thumbnailUrl: derek_zoladz.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {abbr: "OhioNET", title: "Library Systems Analyst"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/derek_zoladz"}
+    - {name: "github", link: "https://github.com/dzoladz"}
+    - {name: "site", link: "http://www.derekzoladz.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Ryan"
+  surname: "Scott"
+  title: "Purveyor of DNS Records"
+  thumbnailUrl: ryan_scott.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {abbr: "CSCC", title: "Reference & Instruction Librarian"}
+  social:
+    - {name: "github", link: "https://github.com/Nassaubound"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
+  name: "Libby"
+  surname: "Hertenstein"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: libby_hertenstein.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {abbr: "BGSU", title: "Cataloger and Metadata Librarian"}
+  #social:
+    #- {name: "site", link: "http://andrusiv.com/"}
+#-
+#  id: 4
+#  name: "Dmytro"
+#  surname: "Danylyk"
+#  title: "Android Program Committee"
+#  thumbnailUrl: DmytroDanylyk.jpg
+#  subTeam: true
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 7
+#  name: "Valentyn"
+#  surname: "Shybanov"
+#  title: "Web and Cloud Program Committee"
+#  thumbnailUrl: ValentynShybanov.jpg
+#  subTeam: true
+#  social:
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
