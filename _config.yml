@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+
 
 # -------------------------
 # SITE SETTINGS
@@ -19,20 +19,16 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Head
 metaKeywords: "event, tedsig, alao, technology, librarians, developers"
 twitterAccount: "@alaoTEDSIG"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
-
-
-
+socialImageSrcTwitter: "/img/seo/1px_transparent.png"  # UPDATE IMAGE
+socialImageSrcFacebook: "/img/seo/1px_transparent.png"  # UPDATE IMAGE
 title: "TEDSIG 2021"
 email: "derekz@ohionet.org"
 description: "Virtual conference for ALAO TEDSIG"
 author: "Derek Zoladz, OhioNET; Oleh Zasadnyy, GDG Lviv"
-year: "2021"
 
-baseurl: "/tedsig"
-url: "https://dzoladz.github.io"
+year: "2021"
+baseurl: "https://dzoladz.github.io/tedsig"
+url: "https://tedsig.alaoweb.org"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -40,15 +36,15 @@ permalink: "/blog/:title"
 
 
 
-# -------------------------
-# ORGANIZER INFO
-# -------------------------
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+# ---------------------------
+# ORGANIZER INFO, SCHEMA.ORG
+# ---------------------------
+organizerName: "TEDSIG"
+organizerAlternateName: "Technical, Electronic, and Digital Services Interest Group"
+organizerDescription: "Technical, Electronic, and Digital Services Interest Group, a branch of the Academic Library Association of Ohio"
+organizerEmail: "TEDSIG-chairs@alaoweb.org"
+organizerLogo: "/img/seo/1px_transparent.png"  # UPDATE IMAGE
+organizerLink: "https://www.alaoweb.org/igs/tedsig/index.html"
 
 
 
@@ -188,7 +184,10 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 organizersShowSection: false
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
+
+enableC4sponsorsButton: true
 partnersC4sponsorsButton: "Become a sponsor"
+c4sponsorsUrl: "/assets/example.pdf"  # UPDATE FILE
 
 
 
@@ -267,7 +266,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:derekz@ohionet.org", text: "derekz@ohionet.org"}
+   - {link: "mailto:TEDSIG-chairs@alaoweb.org", text: "TEDSIG-chairs@alaoweb.org"}
  -
   title: "FAQ"
   links:
