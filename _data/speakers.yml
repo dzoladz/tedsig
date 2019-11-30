@@ -1,4 +1,18 @@
-- 
+-
+  id: 1
+  name: "Derek"
+  surname: "Zoladz"
+  company: "OhioNET"
+  title: "Library Systems Analyst"
+  bio: "Strong advocate for the use of open source technologies in day-to-day library operations. Heavily involved with ILS system management, data (and metadata) wrangling, server administration, process automation, and a host of other technical odds-and-ends for the Consortium of Ohio Libraries (COOL), Ohio Private Academic Libraries (OPAL), and the Private Academic Library Network of Indiana (PALNI)."
+  thumbnailUrl: derek_zoladz.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Site", title: "Personal Website", url: "https://www.derekzoladz.com"}
+  social:
+    - {name: "github", link: "https://www.github.com/dzoladz"}
+    - {name: "twitter", link: "https://twitter.com/derek_zoladz"}
+-
   id: 3
   name: "Dawid"
   surname: "Ostrowski"

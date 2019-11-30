@@ -1,14 +1,27 @@
 -
+  id: 100
+  title: "Keynote"
+  place: "Keynote Hall"
+  #service: true
+  description: "Keynote Presenter<br>KEYNOTE DESCRIPTION"
+  subtype: keynote
+  speakers: [1]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://dzoladz.github.io/rightclick2017/"
+  video: "//player.vimeo.com/video/101513193"
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 101
+  title: "Hallway Track"
+  place: "Zoom"
   service: true
+  description: "The best time to talk with speakers and attendees"
 -
   id: 001
   title: "Material design: Visual style and imagery"
@@ -37,16 +50,6 @@
   language: en
   complexity: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
   title: "Test: Interacting with Google Services using nothing but HTML"
