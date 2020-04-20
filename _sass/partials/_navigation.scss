@@ -138,6 +138,13 @@ nav {
         }
     }
 }
+
+.nav-logo {
+    float: left;
+    height: 50px;
+    width: 200px;
+}
+
 .right-nav-button {
     margin: 11px 11px 0 0;
     transition: $base-transition;

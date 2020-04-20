@@ -21,12 +21,12 @@ metaKeywords: "event, tedsig, alao, technology, librarians, developers"
 twitterAccount: "@alaoTEDSIG"
 socialImageSrcTwitter: "/img/seo/1px_transparent.png"  # UPDATE IMAGE
 socialImageSrcFacebook: "/img/seo/1px_transparent.png"  # UPDATE IMAGE
-title: "TEDSIG 2021"
+title: "TEDSIG 2020"
 email: "derekz@ohionet.org"
 description: "Virtual conference for ALAO TEDSIG"
 author: "Derek Zoladz, OhioNET; Oleh Zasadnyy, GDG Lviv"
 
-year: "2021"
+year: "2020"
 #baseurl: "https://dzoladz.github.io/tedsig" # PRODUCTION
 baseurl: "/tedsig" # DEVELOPMENT
 url: "https://tedsig.alaoweb.org"
@@ -56,7 +56,7 @@ navigationLogo: "/img/sprites/alao-inverted-small.svg"
 navigationLinks:
  #- {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
@@ -66,22 +66,11 @@ navigationLinks:
 #rightNavigationButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
-
-
-# -------------------------
-# HERO BLOCK
-# -------------------------
-# https://www.pexels.com/photo/photography-of-a-contemporary-hallway-1202849/
-# https://www.pexels.com/photo/long-exposure-photography-white-dome-building-interior-911758/
-# https://www.pexels.com/photo/curve-design-futuristic-lines-911738/
-# https://www.pexels.com/photo/abstract-architecture-art-artistic-534153/
-# https://www.pexels.com/photo/shapes-and-pattern-2346594/
-# https://www.pexels.com/photo/aerial-view-of-red-and-white-enclosed-rides-overlooking-city-1209751/
-
-heroImage: "test6.jpg"
-heroTitle: "TEDSIG <typeout> 2021"
-eventDate: "Virtual Conference - January, 2021"
-typeoutTextValues: '"", "Speculative", "Whimsical", "Provocative"'
+# IMAGE FILE https://www.pexels.com/photo/photo-of-rainbow-under-clouded-sky-1536608/
+heroImage: "empty-terrain.jpg"
+heroTitle: "TEDSIG <typeout> 2020"
+eventDate: "Virtual Conference - July 14, 2020"
+typeoutTextValues: '"", "Speculative", "Climate", "Design"'
 typeoutFallback: "|"
 #heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -164,7 +153,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["3 huge cinema screens", "Dolby Digital Surround EX audio system", "Located directly in the city center"]
 
 
 
@@ -294,7 +283,7 @@ showSessions: true
 # -------------------------
 # TEAM BLOCK
 # -------------------------
-teamShowSection: true
+teamShowSection: false
 teamBlockTitle: "Conference Team"
 aboutUs: "Description is enormous."
 
