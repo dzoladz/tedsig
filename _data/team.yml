@@ -22,35 +22,10 @@
     - {abbr: "CSCC", title: "Reference & Instruction Librarian"}
   social:
     - {name: "github", link: "https://github.com/Nassaubound"}
-- 
-  id: 2
-  name: "Libby"
-  surname: "Hertenstein"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: libby_hertenstein.jpg
-  team: true
-  ribbon: 
-    - {abbr: "BGSU", title: "Cataloger and Metadata Librarian"}
-  #social:
-    #- {name: "site", link: "http://andrusiv.com/"}
-#-
-#  id: 4
-#  name: "Dmytro"
-#  surname: "Danylyk"
-#  title: "Android Program Committee"
-#  thumbnailUrl: DmytroDanylyk.jpg
-#  subTeam: true
+
+## SOCIAL LINKAGES
 #  social:
 #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
 #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
 #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-#-
-#  id: 7
-#  name: "Valentyn"
-#  surname: "Shybanov"
-#  title: "Web and Cloud Program Committee"
-#  thumbnailUrl: ValentynShybanov.jpg
-#  subTeam: true
-#  social:
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
