@@ -1,0 +1,39 @@
+<!-- Begin Speaker Single -->
+{% if site.singleShowSection %}
+<section id="team" class="team" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.singleSpeakersImage }});">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.teamBlockTitle }}</h3>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
+        </div>
+
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Speaker - John Jung</h4>
+            {% for speaker in site.data.speakers %} {% if speaker.rockstar == true %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                <div class="clearfix"></div>
+                                <span class="position">{{ speaker.title }}</span>
+                            </div>
+                            {% for social in speaker.social %}
+                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>
+                            {% endfor %}
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-md-7 text-left" style="float: right;">{{ speaker.bio }}</div>
+            {% endif %} {% endfor %}
+    </div>
+</section>
+{% endif %}
+<!-- End Speaker Single -->
