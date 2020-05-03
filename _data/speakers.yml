@@ -6,7 +6,7 @@
   title: "Library Systems Analyst"
   bio: "Strong advocate for the use of open source technologies in day-to-day library operations. Heavily involved with ILS system management, data (and metadata) wrangling, server administration, process automation, and a host of other technical odds-and-ends for the Consortium of Ohio Libraries (COOL), Ohio Private Academic Libraries (OPAL), and the Private Academic Library Network of Indiana (PALNI)."
   thumbnailUrl: derek_zoladz.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "Site", title: "Personal Website", url: "https://www.derekzoladz.com"}
   social:
@@ -14,67 +14,17 @@
     - {name: "twitter", link: "https://twitter.com/derek_zoladz"}
 -
   id: 2
-  name: "Karthik"
-  surname: "Ranganathan"
-  company: "YugabyteDB"
-  title: "Founder & CTO"
-  bio: ""
-  thumbnailUrl: x.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/karthikr"}
-- 
-  id: 3
-  name: "Amy"
-  surname: "Webb"
-  company: "NYU - Stern School of Business"
-  title: "Adjunct Assistant Professor"
-  bio: "Amy Webb is a quantitative futurist and is an Adjunct Assistant Professor at the New York University Stern School of Business. Professor Webb's research focuses on strategic foresight and using data to model probable, plausible and possible scenarios for the future"
-  thumbnailUrl: x.jpg
-  rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/FuturistAmyWebb"}
-    - {name: "twitter", link: "https://twitter.com/amywebb"}
-- 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
-  id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "John"
+  surname: "Jung"
+  company: "johnjung.us"
+  title: "johnjung.us - Design Consultant"
+  bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci ac auctor augue mauris augue neque gravida in fermentum. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Odio euismod lacinia at quis risus sed vulputate. Purus viverra accumsan in nisl nisi scelerisque. Ut pharetra sit amet aliquam id diam. Netus et malesuada fames ac turpis egestas sed. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Convallis a cras semper auctor neque vitae tempus quam. Quis varius quam quisque id diam vel quam. Risus sed vulputate odio ut enim blandit volutpat maecenas volutpat. Auctor elit sed vulputate mi sit. Aliquam vestibulum morbi blandit cursus risus at ultrices mi. Pharetra convallis posuere morbi leo urna molestie at."
+  thumbnailUrl: john_jung.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {abbr: "Site", title: "Website", url: "http://johnjung.us/"}
+  social:
+    - {name: "site", link: "http://johnjung.us/"}
+    - {name: "github", link: "https://github.com/johnjung"}
+    - {name: "twitter", link: "https://twitter.com/johnjungdotus"}
+
