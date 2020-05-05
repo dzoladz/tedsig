@@ -206,7 +206,7 @@ ticketsOffers:
    price: "Free"
    priceCurrency: ""
    ticketsNumber: "50"
-   buyButtonLink: "http://dfua.ticketforevent.com/"
+   buyButtonLink: "http://example.com/"
    buyButtonText: "Register"
    validFrom: "2020-05-01T00:00"
    validThrough: "2020-07-13T23:59"
