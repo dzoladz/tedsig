@@ -19,8 +19,8 @@ c4pUrl: "https://bit.ly/dfua-c4p"
 # Head
 metaKeywords: "event, tedsig, alao, technology, librarians, developers, speculative, design, libraries"
 twitterAccount: "@alaoTEDSIG"
-socialImageSrcTwitter: "/img/seo/1px_transparent.png"  # UPDATE IMAGE
-socialImageSrcFacebook: "/img/seo/1px_transparent.png"  # UPDATE IMAGE
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 title: "TEDSIG 2020"
 email: "derekz@ohionet.org"
 description: "Virtual conference for ALAO TEDSIG"
