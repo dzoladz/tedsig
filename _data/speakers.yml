@@ -18,11 +18,11 @@
   surname: "Jung"
   company: "johnjung.us"
   title: "johnjung.us - Design Consultant"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci ac auctor augue mauris augue neque gravida in fermentum. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Odio euismod lacinia at quis risus sed vulputate. Purus viverra accumsan in nisl nisi scelerisque. Ut pharetra sit amet aliquam id diam. Netus et malesuada fames ac turpis egestas sed. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Convallis a cras semper auctor neque vitae tempus quam. Quis varius quam quisque id diam vel quam. Risus sed vulputate odio ut enim blandit volutpat maecenas volutpat. Auctor elit sed vulputate mi sit. Aliquam vestibulum morbi blandit cursus risus at ultrices mi. Pharetra convallis posuere morbi leo urna molestie at."
+  bio: "John Jung is Design Consultant at johnjung.us and Programmer/Analyst at The University of Chicago. John is interested in the different ways that research and design might intersect. He has recently spoken on Speculative Design & Strategy at the Symposium on the Future of Libraries in Seattle, Washington, as well as having lead the provocatively-titled reading group \"Design After the End of the World\" in his hometown of Chicago. He has a degree in art from Governors State University and a degree in design methods from the IIT Institute of Design."
   thumbnailUrl: john_jung.jpg
   rockstar: true
   social:
-    - {name: "site", link: "http://johnjung.us/"}
     - {name: "github", link: "https://github.com/johnjung"}
     - {name: "twitter", link: "https://twitter.com/johnjungdotus"}
+    - {name: "site", link: "https://johnjung.us/"}
 
