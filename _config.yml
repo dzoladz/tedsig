@@ -28,8 +28,8 @@ author: "Derek Zoladz, OhioNET; Oleh Zasadnyy, GDG Lviv"
 
 year: "2020"
 #baseurl: "https://dzoladz.github.io/tedsig" # PRODUCTION
-#baseurl: "https://tedsig.alaoweb.org" # PRODUCTION
-baseurl: "/tedsig" # DEVELOPMENT
+baseurl: "https://tedsig.alaoweb.org" # PRODUCTION
+#baseurl: "/tedsig" # DEVELOPMENT
 url: "https://tedsig.alaoweb.org"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
