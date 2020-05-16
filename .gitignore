@@ -2,7 +2,8 @@
 *.lock
 .idea
 .idea/workspace.xml
-l
+.DS_Store
+
 ### Jekyll ###
 _site/
 
