@@ -200,7 +200,10 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsVerticalShow: false
 ticketsHorizontalShow: true
 ticketsTitle: "Price"
-ticketsInfo: "Registration is required. Although the event is online and free, there are real limitations to holding a virtual event. Speakers require compensation for their time. Paid professional Zoom subscriptions have seat caps. Bandwidth charges are calculated by the mbit/s... you get the idea. Please be respectful and register for this event"
+ticketsInfo: |
+ Registration is required. Although the event is online and free, there are real limitations to holding a virtual event (e.g. 100 max attendees on our Zoom license). Please be respectful and register for this event.
+
+ Connection details will be provided here, and emailed to all registrants, on the day of the event.
 ticketsOffers:
  - name: "All Registrations"
    price: "Free"
