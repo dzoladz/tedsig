@@ -39,7 +39,7 @@
 			{% assign animationDelay = animationDelay | plus:250 %}
             {% endfor %}
             </div>
-            <span class="tickets-info">{{ site.ticketsInfo }}</span>
+            <span class="tickets-info">{{ site.ticketsInfo | newline_to_br }}</span>
 		</div>
 	</div>
 </section>
