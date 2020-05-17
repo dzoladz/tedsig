@@ -206,7 +206,7 @@ ticketsOffers:
    price: "Free"
    priceCurrency: ""
    ticketsNumber: "100"
-   buyButtonLink: "http://example.com/"
+   buyButtonLink: "https://www.alaoweb.org/event-3845612"
    buyButtonText: "Register"
    validFrom: "2020-05-01T00:00"
    validThrough: "2020-07-13T23:59"
