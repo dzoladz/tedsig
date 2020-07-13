@@ -28,7 +28,7 @@ author: "Derek Zoladz, OhioNET; Oleh Zasadnyy, GDG Lviv"
 
 year: "2020"
 #baseurl: "https://dzoladz.github.io/tedsig" # PRODUCTION
-baseurl: "https://tedsig.alaoweb.org" # PRODUCTION
+#baseurl: "https://tedsig.alaoweb.org" # PRODUCTION
 #baseurl: "/tedsig" # DEVELOPMENT
 url: "https://tedsig.alaoweb.org"
 permalink: "/blog/:title"
@@ -199,20 +199,31 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 # -------------------------
 ticketsVerticalShow: false
 ticketsHorizontalShow: true
-ticketsTitle: "Price"
-ticketsInfo: |
- Registration is required. Although the event is online and free, there are real limitations to holding a virtual event (e.g. 100 max attendees on our Zoom license). Please be respectful and register for this event.
-
- Connection details will be provided here, and emailed to all registrants, on the day of the event.
+ticketsTitle: "Join Event"
+ticketsInfo:
 ticketsOffers:
- - name: "All Registrations"
-   price: "Free"
+ - name: "TEDSIG | 2020 "
+   price: ""
    priceCurrency: ""
-   ticketsNumber: "100"
-   buyButtonLink: "https://www.alaoweb.org/event-3845612"
-   buyButtonText: "Register"
-   validFrom: "2020-05-01T00:00"
-   validThrough: "2020-07-13T23:59"
+   ticketsNumber: ""
+   buyButtonLink: "https://us02web.zoom.us/j/81581956990?pwd=OFNxZ0JyYkRIWjRtRlA0RHVOUWMyZz09"
+   buyButtonText: "Join Event"
+   validFrom: ""
+   validThrough: ""
+
+#ticketsInfo: |
+# Registration is required. Although the event is online and free, there are real limitations to holding a virtual event (e.g. 100 max attendees on our Zoom license). Please be respectful and register for this event.
+#
+# Connection details will be provided here, and emailed to all registrants, on the day of the event.
+#ticketsOffers:
+# - name: "All Registrations"
+#   price: "Free"
+#   priceCurrency: ""
+#   ticketsNumber: "100"
+#   buyButtonLink: "https://www.alaoweb.org/event-3845612"
+#   buyButtonText: "Register"
+#   validFrom: "2020-05-01T00:00"
+#   validThrough: "2020-07-13T23:59"
 # -
 #  name: "Early Bird"
 #  price: "350"
