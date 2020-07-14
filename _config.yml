@@ -199,15 +199,15 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 # -------------------------
 ticketsVerticalShow: false
 ticketsHorizontalShow: true
-ticketsTitle: "Join Event"
+ticketsTitle: "Thanks for Attending!"
 ticketsInfo:
 ticketsOffers:
  - name: "TEDSIG | 2020 "
    price: ""
    priceCurrency: ""
    ticketsNumber: ""
-   buyButtonLink: "https://us02web.zoom.us/j/81581956990?pwd=OFNxZ0JyYkRIWjRtRlA0RHVOUWMyZz09"
-   buyButtonText: "Join Event"
+   buyButtonLink: "https://www.youtube.com/watch?v=nv4Frp8p8fw"
+   buyButtonText: "View Presentation"
    validFrom: ""
    validThrough: ""
 
